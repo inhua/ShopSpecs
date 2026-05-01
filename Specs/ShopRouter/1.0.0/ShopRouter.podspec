@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'MTRouter URL routing component with route self-registration support.'
   s.description      = 'ShopRouter provides MTRouter, RouterPath constants, and the MTRouteRegistrable protocol for decoupled URL-based navigation.'
   s.homepage         = 'https://github.com/inhua/ShopRouter'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopRouter.git', :tag => s.version.to_s }
 

@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'CTMediator component for inter-module communication.'
   s.description      = 'ShopMediator provides the CTMediator Target-Action middleware for decoupled component communication.'
   s.homepage         = 'https://github.com/inhua/ShopMediator'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopMediator.git', :tag => s.version.to_s }
 

@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'Business base layer providing CartManager and UserSession.'
   s.description      = 'ShopBusinessBase provides CartManager, UserSession, and CartItem for business components.'
   s.homepage         = 'https://github.com/inhua/ShopBusinessBase'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopBusinessBase.git', :tag => s.version.to_s }
 

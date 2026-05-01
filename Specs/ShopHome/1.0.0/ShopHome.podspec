@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = '首页业务组件'
   s.description      = 'ShopHome provides HomeViewController, HomeViewModel, banner/category cells, Target_Home, and route registration for the home flow.'
   s.homepage         = 'https://github.com/inhua/ShopHome'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopHome.git', :tag => s.version.to_s }
 

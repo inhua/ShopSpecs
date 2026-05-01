@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = '我的业务组件'
   s.description      = 'ShopMine provides MineViewController, MineViewModel, Target_Mine, and route registration for the mine (profile) flow.'
   s.homepage         = 'https://github.com/inhua/ShopMine'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopMine.git', :tag => s.version.to_s }
 

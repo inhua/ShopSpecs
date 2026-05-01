@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = '购物车业务组件'
   s.description      = 'ShopCart provides CartViewController, CartViewModel, Target_Cart, and route registration for the shopping cart flow.'
   s.homepage         = 'https://github.com/inhua/ShopCart'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopCart.git', :tag => s.version.to_s }
 
