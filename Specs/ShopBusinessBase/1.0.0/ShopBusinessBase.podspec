@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/inhua/ShopBusinessBase'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
-  s.source           = { :path => '.' }
+  s.source           = { :git => 'https://github.com/inhua/ShopBusinessBase.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '18.1'
   s.swift_version = '5.0'
