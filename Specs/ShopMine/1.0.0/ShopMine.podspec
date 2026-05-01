@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
   s.dependency 'ShopRouter'
   s.dependency 'ShopMediator'
   s.dependency 'ShopBusinessBase'
+
 end
