@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.platform              = :ios, '18.1'
   s.swift_version         = '5.0'
 
-  s.source_files = 'ShopCart/Sources/**/*.swift'
+  s.source_files = 'Sources/**/*.swift'
 
   s.dependency 'ShopBase'
   s.dependency 'ShopRouter'
